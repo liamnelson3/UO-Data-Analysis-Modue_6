@@ -4,7 +4,7 @@ This activity provides practice making requests, converting the response to JSON
 
 ## Instructions
 
-* Make a request to the following endpoint (<https://static.bc-edx.com/data/dl-1-2/m6/lessons/2/request_review.json>), and store the response.
+* Make a request to the following endpoint (<https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/06-Python-APIs/request_review.json>), and store the response.
 
 * Print the JSON representations of the first and last posts.
 

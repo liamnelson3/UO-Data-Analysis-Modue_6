@@ -8,7 +8,7 @@ In this activity, you will dig into a simple, well-documented API&mdash;The Spac
 
   * [GitHub](https://github.com/r-spacex/SpaceX-API)
 
-  * [API Documentation](https://github.com/r-spacex/SpaceX-API/tree/master/docs#rspacex-api-docs)
+  * [API Documentation](https://documenter.getpostman.com/view/2025350/RWaEzAiG#e232e64a-58a2-4bc0-af42-eb20499425cc)
 
 * Once you understand the structure of the API and its endpoint, choose one of the endpoints and do the following:
 
